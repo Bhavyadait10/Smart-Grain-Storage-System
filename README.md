@@ -9,12 +9,6 @@ This system monitors grain storage conditions in real-time using ESP32 and IoT s
 <div align="justify">
 The proposed Smart Grain Storage System is an ESP32-based IoT monitoring and control system developed to reduce post-harvest grain losses. It uses multiple sensors, including a temperature and humidity sensor, a moisture sensor, a gas sensor, and a vibration sensor, to continuously monitor the internal storage conditions. These parameters are critical because high temperature, excess humidity, increased moisture content, harmful gas formation, or unusual vibrations can indicate spoilage, fungal growth, or pest activity.
 </div>
-
-<p align="center">
-  <img width="541" height="436" alt="Smart Grain Storage System"
-  src="https://github.com/user-attachments/assets/cb743ae3-cdb8-4e35-b87b-7407343624d0" />
-</p>
-
 <div align="justify">
 The ESP32 collects and processes all sensor data, compares it with predefined safe threshold values, and automatically controls a relay module when abnormal conditions are detected. The relay activates devices such as an exhaust fan to maintain proper air circulation and stable storage conditions. Real-time readings and system status are displayed on an LCD screen for easy on-site monitoring. In addition, the system provides real-time monitoring and visualization through the Blynk IoT platform via Wi-Fi connectivity, allowing users to access data remotely. This ensures continuous supervision and timely action, making the system efficient and suitable for small- and medium-scale grain storage facilities.
 </div>
