@@ -26,6 +26,13 @@ The ESP32 collects and processes all sensor data, compares it with predefined sa
 - Blynk IoT App (Mobile Dashboard)
 - Buzzer (for alerts)
 
+## 📚 Libraries Used
+- Wire.h
+- LiquidCrystal_I2C
+- DHT Sensor Library
+- WiFi.h
+- HTTPClient.h
+
 ## 📋 Sensor Thresholds
 
 | Sensor | Parameter | Safe Range | Action Triggered |
