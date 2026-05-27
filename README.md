@@ -12,25 +12,25 @@ This system monitors grain storage conditions in real-time using ESP32 and IoT s
 - Blynk IoT App (Mobile Dashboard)
 - Buzzer (for alerts)
 
-## System Photo
+## 📷 System Photo
 <p align="center">
   <img width="600" alt="System Photo"
   src="https://raw.githubusercontent.com/Bhavyadait10/Smart-Grain-Storage-System/main/images/system_photo.jpg" />
 </p>
 
-## Circuit Diagram
+## 🔌 Circuit Diagram
 <p align="center">
   <img width="600" alt="Circuit Diagram"
   src="https://raw.githubusercontent.com/Bhavyadait10/Smart-Grain-Storage-System/main/images/circuit_diagram.jpg" />
 </p>
 
-## Blynk Dashboard
+## 📲 Blynk Dashboard
 <p align="center">
   <img width="600" alt="Blynk Dashboard"
   src="https://raw.githubusercontent.com/Bhavyadait10/Smart-Grain-Storage-System/main/images/blynk_dashboard.jpg" />
 </p>
 
-## Output
+## 📊 Output
 <p align="center">
   <img width="600" alt="Output"
   src="https://raw.githubusercontent.com/Bhavyadait10/Smart-Grain-Storage-System/main/images/output.jpg" />
