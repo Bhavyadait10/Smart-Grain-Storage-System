@@ -1,4 +1,4 @@
-# Smart-Grain-Storage-System
+# 🌾 Smart-Grain-Storage-System 🌾
 ESP32-based IoT system for real-time grain storage monitoring
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
