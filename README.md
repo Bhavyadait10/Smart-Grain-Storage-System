@@ -1,6 +1,11 @@
 # Smart-Grain-Storage-System
 ESP32-based IoT system for real-time grain storage monitoring
 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-ESP32-blue)
+![IoT](https://img.shields.io/badge/IoT-Blynk-purple)
+![Award](https://img.shields.io/badge/Avalon_Techfest-2nd_Place-gold)
+
 ## 📌 Project Overview
 This system monitors grain storage conditions in real-time using ESP32 and IoT sensors to detect temperature, humidity, and moisture levels.
 
