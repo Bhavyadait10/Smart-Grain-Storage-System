@@ -27,11 +27,40 @@ The ESP32 collects and processes all sensor data, compares it with predefined sa
 - Buzzer (for alerts)
 
 ## 📚 Libraries Used
-- Wire.h
-- LiquidCrystal_I2C
-- DHT Sensor Library
-- WiFi.h
-- HTTPClient.h
+- Wire.h — I2C communication
+- LiquidCrystal_I2C — LCD display
+- DHT Sensor Library — Temperature & humidity
+- WiFi.h — WiFi connectivity
+- BlynkSimpleEsp32.h — Blynk IoT integration
+
+## 🚀 How to Run
+1. Install Arduino IDE
+2. Install all required libraries
+3. Enter your WiFi credentials
+4. Enter your Google Script ID
+5. Upload code to ESP32
+6. Open Serial Monitor at 115200 baud
+
+## 💻 Source Code
+[SGSS_project_code.ino](SGSS_project_code.ino)
+
+## 📲 Blynk IoT Integration
+- Data is sent every 3 seconds to the Blynk cloud
+- Monitor all readings live on the Blynk mobile app
+- Parameters monitored:
+  - 🌡️ Temperature
+  - 💧 Moisture Level
+  - 💨 Gas Level
+  - 📳 Vibration Alert
+  - 🌀 Fan Status
+ 
+## ✨ Features
+- Real-time temperature monitoring
+- Automatic fan control (triggers at 30°C)
+- Moisture & gas detection
+- Vibration alert with LED indicator
+- Live data on the Blynk mobile app
+- LCD for local monitoring
 
 ## 📋 Sensor Thresholds
 
